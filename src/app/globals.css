@@ -105,3 +105,23 @@ a {
     color-scheme: dark;
   }
 }
+
+button.casillas{
+  width: 2rem;
+  height: 2rem;
+  margin: 0.15rem;
+  border-radius: 50%;
+  border:none;
+}
+
+.cero{
+  background-color: grey;
+}
+
+.uno{
+  background-color: red;
+}
+
+.dos{
+  background-color: blue;
+}
